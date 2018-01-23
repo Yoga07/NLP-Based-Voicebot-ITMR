@@ -1,0 +1,408 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "entities": [], 
+        "intent": "greet", 
+        "text": "hey"
+      }, 
+      {
+        "entities": [], 
+        "intent": "greet", 
+        "text": "howdy"
+      }, 
+      {
+        "entities": [], 
+        "intent": "greet", 
+        "text": "hey there"
+      }, 
+      {
+        "entities": [], 
+        "intent": "greet", 
+        "text": "hello"
+      }, 
+      {
+        "entities": [], 
+        "intent": "greet", 
+        "text": "hi"
+      }, 
+      {
+        "entities": [], 
+        "intent": "affirm", 
+        "text": "yes"
+      }, 
+      {
+        "entities": [], 
+        "intent": "affirm", 
+        "text": "yep"
+      }, 
+      {
+        "entities": [], 
+        "intent": "affirm", 
+        "text": "yeah"
+      }, 
+      {
+        "entities": [], 
+        "intent": "goodbye", 
+        "text": "bye"
+      }, 
+      {
+        "entities": [], 
+        "intent": "goodbye", 
+        "text": "goodbye"
+      }, 
+      {
+        "entities": [], 
+        "intent": "goodbye", 
+        "text": "good bye"
+      }, 
+      {
+        "entities": [], 
+        "intent": "goodbye", 
+        "text": "stop"
+      }, 
+      {
+        "entities": [], 
+        "intent": "goodbye", 
+        "text": "end"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_int", 
+        "text": "What is the interest rate for vehicle?"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_int", 
+        "text": "What is the processing fee range?"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_int", 
+        "text": "what is the rate of interest"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_int", 
+        "text": "what is the interest rate for car"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_amt", 
+        "text": "What is the allowable loan amount"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_amt", 
+        "text": "what is the lowest loan amount"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_amt", 
+        "text": "what is the minimum loan amount"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_amt", 
+        "text": "What is the maximum loan offered"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_dur", 
+        "text": "What is the duration of loan"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_dur", 
+        "text": "What is the tenure"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_dur", 
+        "text": "loan repayment time"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_int", 
+        "text": "what is the processing fee or interest rate?"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_int", 
+        "text": "What is the rate of interest for car loan"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_int", 
+        "text": "what is the best available interest plan"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_int", 
+        "text": "suggest us the best EMI plans out there"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_int", 
+        "text": "give me the best loan plans for car"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_int", 
+        "text": "Show me the list of available loan plans for car"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_int", 
+        "text": "Show me the list of available interest plans for vehiclds"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_int", 
+        "text": "What are the EMI plans available"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_int", 
+        "text": "what are the possible interest rates for car loans"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_int", 
+        "text": "What is the processing fee for my bike loan"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_int", 
+        "text": "suggest me the best plan for my bike loans"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_int", 
+        "text": "give me the list of available loan plans for my bike"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_int", 
+        "text": "what is the rate of interest for bike loan"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_int", 
+        "text": "what is the interest rate for my bike"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_int", 
+        "text": "what is the processing fee range for my bike"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_int", 
+        "text": "What are the EMI plans available plans for bike"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_int", 
+        "text": "Help me out with the list of available plans for my car"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_int", 
+        "text": "Help me out with the list of available EMI plans for my bike"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_int", 
+        "text": "Can you list the available loan options for both bike and car"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_int", 
+        "text": "Can you list the available loan plans for Car"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_int", 
+        "text": "Can you list the available loan plans for bike"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_amt", 
+        "text": "What is the eligible loan amount for my car"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_amt", 
+        "text": "What is the possible loan amount for my car"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_amt", 
+        "text": "what is the maximum loan amount I can amass for my car"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_amt", 
+        "text": "What is the possible loan amount for my car"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_amt", 
+        "text": "what is the loan limit for my car"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_amt", 
+        "text": "What is the highest possible loan I can avail for my car"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_amt", 
+        "text": "What is the lowest possible loan amount for my car"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_amt", 
+        "text": "What is the maximum allowable loan amount for my car"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_amt", 
+        "text": "What is the allowable loan amount for my bike"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_amt", 
+        "text": "What is the maximum allowable loan amount for my bike"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_amt", 
+        "text": "What is the possible loan amount I can avail for my bike"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_amt", 
+        "text": "What is the loan limit for my bike"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_amt", 
+        "text": "Can you list the possible loan amounts range for my car"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_amt", 
+        "text": "Can you list the possible loan amount range for my bike"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_amt", 
+        "text": "What is the maximum loan amount possible for my bike"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_amt", 
+        "text": "what is the lowest loan amount possible for my bike"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_dur", 
+        "text": "What is the maximum tenure for my car loan"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_dur", 
+        "text": "What is the time of repayment for my car loan"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_dur", 
+        "text": "What is the time of repayment for my bike loan"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_dur", 
+        "text": "what is the maximum tenure for my bike loan"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_dur", 
+        "text": "What is the repayment time for my car loan"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_dur", 
+        "text": "What is my duration for car loan"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_dur", 
+        "text": "What is my duration for bike loan"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_dur", 
+        "text": "What is the lowest tenure for my car loan"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_dur", 
+        "text": "What is the maximum tenure for my bike loan"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_dur", 
+        "text": "What is the maximum time available for my car loan"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_dur", 
+        "text": "What is the minimum tenure available for my car loan"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_dur", 
+        "text": "What is the minimum tenure available for my bike loan"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_dur", 
+        "text": "Suggest me the best tenure for my car loan"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_dur", 
+        "text": "Suggest me the best plan available for my bike loan"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_dur", 
+        "text": "Help me with the maximum time available for car loan"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_dur", 
+        "text": "Help me with the time available for my car loan"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_dur", 
+        "text": "Suggest me the time available for my bike loan"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_dur", 
+        "text": "Suggest me the list of tenure available for my car loan"
+      }, 
+      {
+        "entities": [], 
+        "intent": "query_dur", 
+        "text": "Suggest me the tenure for my bike loan amount"
+      }
+    ], 
+    "entity_synonyms": [], 
+    "regex_features": []
+  }
+}
